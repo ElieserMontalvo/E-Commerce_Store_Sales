@@ -1,0 +1,11 @@
+Order ID,Product Category,Product Name,Order Date,Quantity Sold,Unit Price,Customer Location,Payment Method,Total Sales,Month
+1001,Electronics,Smartphone,1/15/2024,1,699.99,"New York, USA",Credit Card,699.99,January
+1002,Clothing,"T-Shirt	",2/20/2024,2,19.99,"London, UK	",PayPal,39.98,February
+1003,Home & Kitchen,Blender,3/12/2024,1,49.99,"Paris, France",Credit Card,49.99,March
+1004,Electronics,Laptop,1/28/2024,1,999.99,"Berlin, Germany	",Bank Transfer,999.99,January
+1005,Books,Novel,4/2/2024,3,14.99,"Toronto, Canada",Credit Card,44.97,April
+1006,Clothing,Jeans,2/15/2024,1,39.99,"Tokyo, Japan",PayPal,39.99,February
+1007,Books,Cookbook,5/1/2024,2,24.99,"Sydney, Australia",Credit Card,49.98,May
+1008,Home & Kitchen,Coffee Maker,3/25/2024,1,89.99,"New York, USA",Bank Transfer,89.99,March
+1009,Electronics,Headphones,4/18/2024,3,149.99,"London, UK",Credit Card,449.97,April
+1010,Clothing,Jacket,5/10/2024,2,59.99,"Paris, France",PayPal,119.98,May
